@@ -80,3 +80,7 @@ start = "typescript-language-server --stdio"
 [[ports]]
 localPort = 4321
 externalPort = 80
+
+[[ports]]
+localPort = 4322
+externalPort = 3000
