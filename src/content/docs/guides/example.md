@@ -1,10 +1,7 @@
 ---
-title: Wistle sprinting.
-description: How to wistle sprint and how to use it.
+title: How to wistle sprint
+description: Here I will show you how to sprint without useing stamina in botw
 ---
+This is one of the easest movment glitches in the game 
 
-Wistle sprinting is one of the easest movment glitch in the enter game.
-
-## Further reading
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+## How to do it
