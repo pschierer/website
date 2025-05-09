@@ -6,7 +6,7 @@ hero:
     - text: Lean how to use BLSS.
       link: /guides/glitches/blss/
       icon: right-arrow
-    - text: Lean how to wistle sprint.
+    - text: Lean how to whistle sprint.
       link: /guides/glitches/wistle/
       icon: right-arrow
     - text: Lean how to wind bomb.
